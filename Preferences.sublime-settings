@@ -2,7 +2,7 @@
 
 
 {
-	"auto_complete_delay": 50,
+	"auto_complete_delay": 55,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
