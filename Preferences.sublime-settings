@@ -1,3 +1,6 @@
+//change...3-9-2016
+
+
 {
 	"auto_complete_delay": 50,
 	"bold_folder_labels": true,
@@ -25,4 +28,6 @@
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "false"
+
+
 }
