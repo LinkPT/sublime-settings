@@ -1,8 +1,11 @@
+
+
+
 {
 	"auto_complete_delay": 50,
 	"bold_folder_labels": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+//	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
@@ -19,10 +22,14 @@
 	[
 		"cfoutput"
 	],
+	"material_theme_tree_headings": true,
 	"remember_open_files": true,
 	"spell_check": true,
-	"theme": "Default.sublime-theme",
+	//"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "false"
+	"word_wrap": "false",
+
+	"theme": "Agila.sublime-theme",
+	    "color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme"
 }
